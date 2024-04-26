@@ -23,6 +23,24 @@
         "id": "https://tanyaclement.github.io/znh_aviary/s1576-t86-244/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3400.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_aviary/annotations/s1576-t86-244-canvas-1-notes.json",
+            "label": {
+              "none": ["Notes"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_aviary/annotations/s1576-t86-244-canvas-1-transcription.json",
+            "label": {
+              "none": ["Transcription"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/znh_aviary/s1576-t86-244/canvas-1/paintings",
