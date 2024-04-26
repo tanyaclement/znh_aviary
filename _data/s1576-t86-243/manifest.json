@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_aviary/annotations/s1576-t86-243-canvas-1-notes.json",
-            "label": {
-              "none": ["notes"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/znh_aviary/annotations/s1576-t86-243-canvas-1-transcription.json",
             "label": {
               "none": ["Transcription"]
