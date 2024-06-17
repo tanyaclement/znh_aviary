@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 permalink: introduction
 ---
-This edition “Zora Neale Hurston's WPA field recordings in Jacksonville, FL (1939)” includes three recordings created as part of the [Works Projects Administration (WPA) Federal Writers Project (FWP)](https://www.floridamemory.com/learn/classroom/learning-units/zora-neale-hurston/) on June 18, 1939 that allow us to overhear some of the complexities that played out in the varied contexts of Hurston’s fieldwork. The WPA was a work-relief program created in 1935 by the Roosevelt Administration. The FWP included the Folklore Section. These specific recordings, recorded on June 18, 1939 in the WPA offices in Jacksonville, Florida under the direction of Herbert Halpert with Carita Doggett Corse (FWP Director) and Stetson Kennedy, include Hurston performing songs she had collected during her fieldwork.<br/>
+This testing edition “Zora Neale Hurston's WPA field recordings in Jacksonville, FL (1939)” includes three recordings created as part of the [Works Projects Administration (WPA) Federal Writers Project (FWP)](https://www.floridamemory.com/learn/classroom/learning-units/zora-neale-hurston/) on June 18, 1939 that allow us to overhear some of the complexities that played out in the varied contexts of Hurston’s fieldwork. The WPA was a work-relief program created in 1935 by the Roosevelt Administration. The FWP included the Folklore Section. These specific recordings, recorded on June 18, 1939 in the WPA offices in Jacksonville, Florida under the direction of Herbert Halpert with Carita Doggett Corse (FWP Director) and Stetson Kennedy, include Hurston performing songs she had collected during her fieldwork.<br/>
 **Tanya Clement, July 2021**
 
 ---
